@@ -1,4 +1,6 @@
-🔴&nbsp;**Web Development:** HTML, CSS, JS, React, MUI, Bootstrap, Node.js, Express, Django
+🟤&nbsp;**Programming Languages:** HTML, CSS, JavaScript, Python, Dart, SQL, C++
+
+🔴&nbsp;**Web Development:** React, Flutter Web, MUI, Bootstrap, Node.js, Express, Django
 
 🟠&nbsp;**Database:** MongoDB, Firebase, MySQL, PostgreSQL
 
