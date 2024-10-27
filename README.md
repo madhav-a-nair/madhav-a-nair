@@ -8,4 +8,4 @@
 
 🟢&nbsp;**Artificial Intelligence:** Python, Numpy, OpenCV, Mediapipe, Anaconda
 
-🔵&nbsp;**Microcontrollers:** Arduino, Raspberry Pi, Arduino IDE
+🔵&nbsp;**Microcontrollers:** Arduino, Raspberry Pi, NodeMCU, Arduino IDE
