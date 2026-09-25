@@ -1,11 +1,11 @@
 🟤&nbsp;**Programming Languages:** HTML, CSS, JavaScript, Python, Dart, SQL, C++
 
-🔴&nbsp;**Web Development:** React, Flutter Web, MUI, Bootstrap, Node.js, Express, Django
+🔴&nbsp;**Web Development:** React, Next.js, Node.js, Express, Django, Azure
 
 🟠&nbsp;**Database:** MongoDB, Firebase, MySQL, PostgreSQL
 
 🟡&nbsp;**Mobile App Development:** Flutter, React Native, Android
 
-🟢&nbsp;**Artificial Intelligence:** Python, Numpy, OpenCV, Mediapipe, Anaconda
+🟢&nbsp;**Artificial Intelligence:** OpenCV, Mediapipe, Anaconda, Foundry
 
-🔵&nbsp;**Microcontrollers:** Arduino, Raspberry Pi, NodeMCU, Arduino IDE
+🔵&nbsp;**Microcontrollers:** Arduino, Raspberry Pi, NodeMCU
